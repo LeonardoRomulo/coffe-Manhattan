@@ -46,7 +46,7 @@
 /* container parallax 1 banner */
 
 .container-parallax1 {
-    background-image: url('/assets/parallax-imagem1.png');
+    background-image: url("/assets/parallax-imagem1.png");
     height: 100vh;
 }
 
@@ -64,7 +64,7 @@
 
 /* Container parallax 2 informações */
 .container-parallax2 {
-    background-image: url('/assets/parallax-imagem2.jpg');
+    background-image: url("/assets/parallax-imagem2.jpg");
     height: 50vh;
 }
 
@@ -90,12 +90,12 @@
 /* parallax 3 informações */
 
 .container-parallax3 {
-    background-image: url('/assets/parallax-imagem3.jpg');
+    background-image: url("/assets/parallax-imagem3.jpg");
     height: 50vh;
 }
 
 .container-parallax4 {
-    background-image: url('/assets/parallax-imagem4.png');
+    background-image: url("/assets/parallax-imagem4.png");
     height: 100vh;
 }
 
@@ -179,7 +179,7 @@
 
 /* parallax 5 listas de horário de funcionamento */
 .container-parallax5 {
-    background-image: url(/assets/cafeteria.jpg);
+    background-image: url("/assets/cafeteria.jpg");
     height: 85vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -273,7 +273,7 @@
     right: 50px;
     bottom: 80px;
 
-    background-image: url(/assets/seta-para-cima.png);
+    background-image: url("/assets/seta-para-cima.png");
     background-position: center;
     background-size: cover;
     border: 4px;
