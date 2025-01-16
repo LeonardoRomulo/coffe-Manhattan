@@ -47,6 +47,7 @@
 
 .container-parallax1 {
     background-image: url("../assets/parallax-imagem1.png");
+    background-repeat: no-repeat;
     height: 100vh;
 }
 
